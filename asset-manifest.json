@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3990cb12.css",
+    "main.js": "/static/js/main.3db97939.js",
+    "static/js/453.d768440e.chunk.js": "/static/js/453.d768440e.chunk.js",
+    "static/media/qrcode9.png": "/static/media/qrcode9.a3b06e83348353ddc5d8.png",
+    "static/media/BZ_Logo_Security.png": "/static/media/BZ_Logo_Security.7e19e4e5858489df5808.png",
+    "static/media/img1.png": "/static/media/img1.4968be53faa298623309.png",
+    "static/media/GenMindz_Logo.png": "/static/media/GenMindz_Logo.5882ecf12229c6e23d17.png",
+    "index.html": "/index.html",
+    "main.3990cb12.css.map": "/static/css/main.3990cb12.css.map",
+    "main.3db97939.js.map": "/static/js/main.3db97939.js.map",
+    "453.d768440e.chunk.js.map": "/static/js/453.d768440e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3990cb12.css",
+    "static/js/main.3db97939.js"
+  ]
+}
