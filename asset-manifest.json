@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.3990cb12.css",
+    "main.js": "/static/js/main.381aecfb.js",
+    "static/js/453.94315750.chunk.js": "/static/js/453.94315750.chunk.js",
+    "static/media/qrcode9.png": "/static/media/qrcode9.a3b06e83348353ddc5d8.png",
+    "static/media/img1.png": "/static/media/img1.4968be53faa298623309.png",
+    "static/media/GenMindz_Logo.png": "/static/media/GenMindz_Logo.5882ecf12229c6e23d17.png",
+    "index.html": "/index.html",
+    "main.3990cb12.css.map": "/static/css/main.3990cb12.css.map",
+    "main.381aecfb.js.map": "/static/js/main.381aecfb.js.map",
+    "453.94315750.chunk.js.map": "/static/js/453.94315750.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3990cb12.css",
+    "static/js/main.381aecfb.js"
+  ]
+}
